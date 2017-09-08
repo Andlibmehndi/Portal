@@ -37,9 +37,9 @@ $mail->SMTPSecure = 'ssl';
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "naqvi.dastan@gmail.com";
+$mail->Username = "xxxxxxxxxxxxxxxxxx";//email id 
 //Password to use for SMTP authentication
-$mail->Password = "naqvi9900";
+$mail->Password = "xxxxxxxxxxxxxx";//password of google account
 //Set who the message is to be sent from
 $mail->setFrom($_POST['email'], $_POST['name']);
 //Set an alternative reply-to address
