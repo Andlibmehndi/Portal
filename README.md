@@ -16,5 +16,5 @@ So just use their Rss feeds and then use it in our website where you can read bo
  
  
  3rd parties Lib    
- GOOGLE API CLIENT
+ GOOGLE API CLIENT    
  PHP MAILER    
